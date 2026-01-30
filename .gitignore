@@ -1,0 +1,78 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+.env
+.venv
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Docker
+*.log
+*.pid
+*.seed
+*.pid.lock
+Dockerfile.dev
+docker-compose.override.yml
+
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+
+uploads/
+temp/
+*.pdf
+*.docx
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Secrets
+secrets/
+keys/
+certificates/
+
+# Logs
+logs/
+*.log
+
+# Coverage
+.coverage
+htmlcov/
