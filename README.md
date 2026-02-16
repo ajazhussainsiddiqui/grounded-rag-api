@@ -9,6 +9,8 @@
 
 **Production-grade RAG system with hallucination detection.**  
 
+
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/ajazhussainsiddiqui/grounded-rag-api)
 ##  Live Demo
 
 **API Endpoint**: [https://grounded-rag-api.vercel.app](https://grounded-rag-api.vercel.app)  
